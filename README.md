@@ -69,9 +69,3 @@ Linear regression coefficients and intercept (from notebook output):
    - matplotlib
 3. Update the dataset path if needed.
 
-Notes:
-- The notebooks reference `data/gemstone.csv`. In this workspace the file is at the repo root as `gemstone.csv`, so either update the path or create a `data/` folder and move the file there.
-
-## License
-
-Add your preferred license here.
